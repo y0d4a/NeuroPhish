@@ -20,7 +20,7 @@ def render_page(content=""):
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Phishing Analyzer</title>
+    <title>NeuroPhish</title>
     <style>
         body {{ font-family: Arial; padding: 40px; background: #f5f5f5; }}
         .box {{ background: white; padding: 20px; border-radius: 10px; }}
