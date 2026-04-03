@@ -9,7 +9,7 @@ Simple web app for analyzing `.eml` emails using a local LLM (Ollama).
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/yourusername/phisheye.git
+git clone https://github.com/y0d4a/phisheye.git
 cd phisheye
 ```
 
