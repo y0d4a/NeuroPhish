@@ -1,4 +1,4 @@
-# 🛡️ PhishEye
+# 🛡️ NeuroPhish
 
 Simple web app for analyzing `.eml` emails using a local LLM (Ollama).
 
