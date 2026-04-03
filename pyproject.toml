@@ -1,0 +1,12 @@
+[project]
+name = "phishing-analyzer"
+version = "0.1.0"
+description = "Phishing email analyzer using LLM"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "beautifulsoup4",
+    "requests",
+    "python-multipart",
+]
