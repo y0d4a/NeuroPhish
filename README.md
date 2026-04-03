@@ -66,3 +66,8 @@ Upload `.eml` → get phishing analysis.
 * Requires Ollama on `localhost:11434`
 * Model: `gpt-oss:20b`
 * Demo tool (no auth, no rate limiting)
+
+
+<img width="2238" height="753" alt="image" src="https://github.com/user-attachments/assets/ddbfe7a0-43c1-4aba-80dc-d41f5794bcdb" />
+<img width="1143" height="603" alt="image" src="https://github.com/user-attachments/assets/09a5b19d-3236-44d0-93ce-d745a6506122" />
+
