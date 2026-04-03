@@ -1,5 +1,5 @@
 [project]
-name = "phishing-analyzer"
+name = "NeuroPhish"
 version = "0.1.0"
 description = "Phishing email analyzer using LLM"
 requires-python = ">=3.10"
